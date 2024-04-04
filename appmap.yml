@@ -1,0 +1,7 @@
+appmap_dir: tmp/appmap
+language: python
+name: CredSweeper
+packages:
+- path: credsweeper
+- path: tests
+- path: src
